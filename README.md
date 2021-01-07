@@ -12,7 +12,7 @@ How to reach me : [LinkedIn](https://www.linkedin.com/in/monica-rangel-1604ab96/
 
 🛠 Technologies & Tools
 
- HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | React | MySQL | MongoDB | jQuery | SASS
+ HTML5 | CSS3 | JavaScript | Bootstrap | Node.js | React | MySQL | MongoDB | jQuery | SASS |
  Git | Github
  
   
